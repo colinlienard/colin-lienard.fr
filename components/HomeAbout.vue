@@ -25,7 +25,7 @@ const { data } = await useAsyncData('milestones', () =>
           About <span class="empty">me</span>
         </h2>
         <p class="paragraph">
-          I am a French <strong>frontend developer</strong> working from Limoges
+          I am a French <strong>fullstack engineer</strong> working from Limoges
           and Paris.<br /><br />
           I am passionate about <strong>creating interfaces</strong>, both from
           a design and development perspective, and I love to test new trends

@@ -6,7 +6,7 @@ const config = useRuntimeConfig();
   <section id="hero" class="container">
     <h1 class="hero">
       <span>Hi, I'm </span><strong class="filled">Colin Lienard</strong
-      ><span>,</span> <strong>frontend developer</strong><br /><span>
+      ><span>,</span> <strong>Fullstack Engineer</strong><br /><span>
         from France</span
       >
     </h1>
@@ -20,7 +20,7 @@ const config = useRuntimeConfig();
         icon-src="/icons/github-logo.svg"
         :href="config.public.githubLink"
       >
-        Check out my GitHub!
+        Check out my GitHub
       </IconButton>
     </div>
     <CubeBackground />

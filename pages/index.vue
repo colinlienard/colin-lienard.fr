@@ -1,11 +1,11 @@
 <script setup lang="ts">
 useHead({
-  title: 'Colin Lienard | Frontend Developer',
+  title: 'Colin Lienard | Fullstack Engineer',
   meta: [
     {
       name: 'description',
       content:
-        "Hi ! I'm Colin Lienard, a frontend developer passionate about frontend dev. I use React and Nextjs, Vue and Nuxtjs,",
+        "Hi! I'm Colin Lienard, a Fullstack Engineer with a passion for frontend development. I use React, Typescript and Svelte.",
     },
   ],
   script: [

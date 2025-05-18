@@ -1,8 +1,8 @@
 <div align="center">
 
-# [Portfolio 2022](https://colin-lienard.fr/)
+# [colin-lienard.fr](https://colin-lienard.fr/)
 
-🖼 My new portfolio built with `nuxt` and `@nuxt/content`
+My portfolio built with `nuxt` and `@nuxt/content`
 
 ![Deployment](https://img.shields.io/website?up_color=blue&url=https%3A%2F%2Fcolin-lienard.fr%2F) ![License](https://img.shields.io/github/license/ColinLienard/outerlife)
 

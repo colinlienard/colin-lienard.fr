@@ -23,7 +23,7 @@ export default defineNuxtConfig({
     spotifyRefreshToken: '',
     public: {
       githubLink: 'https://github.com/colinlienard',
-      linkedinLink: 'https://www.linkedin.com/in/colin-lienard-83490a1a4/',
+      linkedinLink: 'https://www.linkedin.com/in/colin-lienard',
       twitterLink: 'https://twitter.com/colinlienard',
       redditLink: 'https://www.reddit.com/user/colinlienard',
       email: 'contact@colin-lienard.fr',

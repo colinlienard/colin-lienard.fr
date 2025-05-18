@@ -1,18 +1,18 @@
 ---
-title: Auto-layout Spaces
-description: (Development) A Figma plugin to view all spacing at once in auto-layouts.
-image: auto-layout-spaces-thumbnail.webp
-color: 9540CE
-order: 5
+title: Raycast Mistral
+description: An unofficial Raycast extension to use Mistral AI
+image: raycast-mistral-thumbnail.webp
+color: DE5126
+order: 4
 ---
 
-::project-header{image="auto-layout-spaces-0.webp"}
+::project-header{image="raycast-mistral-1.webp"}
 #hero
-# Auto-layout Spaces
+# Raycast Mistral
 
 #links
-- [Figma page](https://www.figma.com/community/plugin/1141632283161323116/Auto-layout-Spaces){:target="_blank"}
-- [GitHub repo](https://github.com/colinlienard/auto-layout-spaces){:target="_blank"}
+- [Raycast page](https://www.raycast.com/colinlienard/mistral){:target="_blank"}
+- [GitHub repo](https://github.com/colinlienard/raycast-mistral){:target="_blank"}
 ::
 
 ::project-paragraph

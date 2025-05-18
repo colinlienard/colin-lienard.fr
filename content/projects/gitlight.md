@@ -1,6 +1,6 @@
 ---
 title: GitLight
-description: (Development, Webdesign) GitHub & GitLab notifications on your desktop
+description: GitHub & GitLab notifications on your desktop
 image: gitlight-thumbnail.webp
 color: 6040FF
 order: 1

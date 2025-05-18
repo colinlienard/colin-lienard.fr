@@ -9,7 +9,7 @@ const hovered = ref<null | number>(null);
 <template>
   <NuxtLayout name="section">
     <h2 id="portfolio" class="hero">
-      <strong>Portfolio</strong> <span class="empty">2023</span>
+      <strong>Portfolio</strong> <span class="empty">2025</span>
     </h2>
     <ul class="list">
       <PortfolioItem

@@ -1,9 +1,9 @@
 ---
 title: Outer Life
-description: (Development, Pixel-art) Game in development about an adventurer exploring unknown planets.
+description: Game in development about an adventurer exploring unknown planets.
 image: outerlife-thumbnail.webp
 color: E88872
-order: 3
+order: 5
 ---
 
 ::project-header{image="outerlife-0.webp"}
